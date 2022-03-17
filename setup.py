@@ -3,7 +3,7 @@ setup(
     name='statistical_test',
     license='MIT License',
     packages=['statistical_test'],
-    install_requires=['numpy', 'matplotlib', 'scipy', 'seaborn','pandas'],
+    install_requires=['numpy', 'matplotlib', 'scipy', 'seaborn','pandas','warnings'],
     version='0.0.1', 
     description='Consolidation of various statistical tests for EDA',
     author='Ngoc Nguyen',
