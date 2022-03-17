@@ -1,4 +1,4 @@
-# statistical_testing
+# statistical_test
 ----------------------------------
 Statistical testing forms the backbone of Machine Learning. In this project, the focus is on applying various statistical testing concept to Exploratory Data Analysis (EDA). The aim here is to have various EDA-useful statistical test in one place with easy access options to switch between tests, visual the test results and inform users of statistical signicance of the test.
 
